@@ -1,5 +1,4 @@
 
-
 ## How to Install and Configure TailwindCSS in a React Project Using Vite
 
 <div align="center">
@@ -22,7 +21,8 @@ Before starting, ensure you have the following installed:
 
 ### Step 1: Create a React Project Using Vite
 
-1. **Install Vite** and create a React project:  
+1. **Install Vite** and create a React project:
+
    <div align="center">
       <img src="Assets/Vite%20logo.svg" alt="Vite Logo" width="170"/>
    </div>
@@ -35,12 +35,12 @@ Before starting, ensure you have the following installed:
      - Framework: `React`
      - Variant: `JavaScript` (or `TypeScript` if preferred)
 
-2. Navigate into the project folder:
+3. Navigate into the project folder:
    ```bash
    cd my-react-tailwind-app
    ```
 
-3. Install dependencies:
+4. Install dependencies:
    ```bash
    npm install
    ```
@@ -86,6 +86,7 @@ Before starting, ensure you have the following installed:
 ---
 
 ### Step 4: Add Tailwind to Your CSS
+
 
 1. In your `src` folder, open or create a `src/index.css` file and add the following `@tailwind` directives:
    ```css
