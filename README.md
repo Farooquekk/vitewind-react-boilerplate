@@ -1,6 +1,4 @@
-You can center the images and make them slightly bigger by combining HTML tags with inline styles. Here's the updated markdown where images are centered and resized for better visibility:
 
----
 
 ## How to Install and Configure TailwindCSS in a React Project Using Vite
 
@@ -166,4 +164,4 @@ This will create an optimized version of your app in the `dist` folder.
 
 ---
 
-Now the images are centered and slightly bigger for better visibility. The `<div align="center">` tag ensures that the images are centered, and the `width` attribute controls the size of the images. Adjust the sizes if needed!
+
